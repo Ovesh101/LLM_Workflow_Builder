@@ -70,7 +70,7 @@ The application is structured into frontend and backend components that work sea
 ## Demo Video
 
 Watch the demo video here:
-[![LLM Workflow Builder Demo](https://drive.google.com/file/d/1_IL4kbfKOhgbeBy3bS6FmmPBdkJaumSm/view?usp=sharing)
+[LLM Workflow Builder Demo](https://drive.google.com/file/d/1_IL4kbfKOhgbeBy3bS6FmmPBdkJaumSm/view?usp=sharing)
 
 
 ### Deployment
