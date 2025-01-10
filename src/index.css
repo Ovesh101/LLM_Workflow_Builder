@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.react-flow__node-input{
+    padding: 0px !important;
+    border: none !important ;
+    width: max-content !important;
+    border-radius: 20px !important;
+    text-align: start !important;
+}
+
+.react-flow__node-output{
+    padding: 0px !important;
+    border: none !important ;
+    width: max-content !important;
+    border-radius: 20px !important;
+    text-align: start !important;
+}
