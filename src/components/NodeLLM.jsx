@@ -96,7 +96,7 @@ const NodeLLM = () => {
           API Key
         </label>
           <input
-            type="text"
+            type="password"
             name="apiKey"
             placeholder="API Key"
             value={formik.values.apiKey}
