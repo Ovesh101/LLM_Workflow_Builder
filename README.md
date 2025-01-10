@@ -62,7 +62,7 @@ The application is structured into frontend and backend components that work sea
    cd LLM_Workflow_Builder
    npm install
    ```
-2: **Spin up the fronted and backend**
+2: **Spin up the frontend and backend**
   ```
     npm run dev
     (backed I have used for calling together API to solve the cors-related issue)
